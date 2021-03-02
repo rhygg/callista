@@ -120,3 +120,5 @@ Logger.write("I'm writting in my own lovely file!","awesomeness") // writes to a
 5. trace(0)
 6. debug(1)
 *Numbers in bracket indicate the level!*
+
+> Repository logo created by [@doublevcodes](https://github.com/doublevcodes)
