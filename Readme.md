@@ -1,5 +1,5 @@
 # Callista
-[https://github.com/rhydderchc/callista](https://media.discordapp.net/attachments/790866153316679680/816180373535981609/20210302-1055182-unscreen.gif)
+[Callista](https://media.discordapp.net/attachments/790866153316679680/816180373535981609/20210302-1055182-unscreen.gif)
 
 Callista is the next generation of **terminal** tool kits for your use!
 
