@@ -1,5 +1,4 @@
-![Callista](https://media.discordapp.net/attachments/614908520470675466/816252055555276800/Screenshot_2021-03-02_at_10.07.10-removebg-preview.png)
-
+![Callista](https://cdn.discordapp.com/attachments/790866153316679680/816593222071484426/20210303_141816_0000-removebg-preview.png)
 # Callista
 Callista is the next generation of **terminal** tool kits for your use!
 
